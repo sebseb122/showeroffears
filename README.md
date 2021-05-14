@@ -1,4 +1,4 @@
-# showeroffears
+# Shower of Fears
 
 To download the full instructions and code for the "Shower of Fears" project, you must first follow the instructions of "Shower of Fears - Part 1" to setup a Thermal Printer and run the code "FearPart1.ino" which will print out a bitmap of a QR code that will take you to a dropbox link of all the instrudtions for the full "Shower of Fears" project.
 
